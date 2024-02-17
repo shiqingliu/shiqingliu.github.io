@@ -3,7 +3,7 @@
 title: Shiqing Liu
 
 # Name pronunciation (optional)
-name_pronunciation: '师晴 刘'
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Shiqing
