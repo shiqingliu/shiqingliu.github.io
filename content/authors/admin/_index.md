@@ -3,7 +3,7 @@
 title: Shiqing Liu
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: '师晴 刘'
 
 # Full name (for SEO)
 first_name: Shiqing
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate in Computer Science
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -37,15 +37,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD candidate in Computer Science
+      institution: Bielefeld University, Germany
+      year: 
+    - course: M.Sc. in Control Science and Engineering
+      institution: Beijing Institute of Technology, China
+      year: 2020
+    - course: B.Sc. in Automation
+      institution: Beijing Institute of Technology, China
+      year: 2017
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,22 +94,23 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:shiqing.liu@uni-bielefeld.de'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=8ERYxPMAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Shiqing-Liu/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/shiqing-liu-550951296/
+    label: Contact me on LinkedIn
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -121,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shiqing Liu is currently a Ph.D. student, supervised by Prof. Dr.-Ing. Yaochu Jin and Prof. Dr.-Ing. Ulrich Rückert, in the faculty of technology at Bielefeld University, Germany. She received the B.Sc. degree in automation and the M.Sc. degree in control science and engineering from Beijing Institute of Technology. Her research interests include neural combinatorial optimization, graph neural networks and federated learning. She is currently a graduate student member of IEEE.
 {style="text-align: justify;"}
