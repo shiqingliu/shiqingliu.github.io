@@ -40,10 +40,7 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-    button:  # sliu test 
-      enable: true
-      text: "Get Started"
-      url: "https://shiqing-liu.github.io/AJCAI2023-workshop/"
+
 
 # Site footer
 
