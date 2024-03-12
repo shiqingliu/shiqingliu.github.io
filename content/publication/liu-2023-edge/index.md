@@ -38,7 +38,7 @@ url_source: 'https://www.sciencedirect.com/science/article/abs/pii/S095070512400
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'demo of solving TSP with EdgeGAE'
+  caption: 'EdgeGAE framework'
   focal_point: ''
   preview_only: false
 
