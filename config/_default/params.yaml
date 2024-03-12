@@ -34,19 +34,22 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar" # try what happen
     align: l
     show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: true
+    button:  # sliu test 
+      enable: true
+      text: "Get Started"
+      url: "https://shiqing-liu.github.io/AJCAI2023-workshop/"
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Shiqing Liu.'
+    notice: '© {year} Made by Shiqing Liu with 🧡.'
     license:
       enable: false
       allow_derivatives: false
