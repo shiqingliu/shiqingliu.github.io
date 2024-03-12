@@ -34,6 +34,7 @@ marketing:
 header:
   navbar:
     enable: true
+    blox: "navbar" # try what happen
     align: l
     show_logo: true
     show_language: false
@@ -45,11 +46,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} by Shiqing Liu.'
+    notice: '© {year} Shiqing Liu.'
     license:
       enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
