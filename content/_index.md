@@ -98,7 +98,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://github.com/shiqingliu/shiqingliu.github.io/blob/main/images/Best_Student_Paper_Award_ShiqingLiu.jpg
+        - certificate_url: https://raw.githubusercontent.com/shiqingliu/shiqingliu.github.io/main/images/Best_Student_Paper_Award_ShiqingLiu.jpg
           date_end: ''
           date_start: '2023-09-22'
           description: Federated Graph Neural Networks with Bipartite Embedding for Multi-Objective Facility Location
