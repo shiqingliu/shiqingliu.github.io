@@ -103,27 +103,27 @@ sections:
           date_start: '2023-09-22'
           description: Federated Graph Neural Networks with Bipartite Embedding for Multi-Objective Facility Location
           icon: ''
-          organization: the 5th International Conference on Data-driven Optimization of Complex Systems (DOCS)
+          organization: 2023 International Conference on Data-driven Optimization of Complex Systems (DOCS)
           # organization_url: https://www.coursera.org
           title: Best Student Paper Award
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://raw.githubusercontent.com/shiqingliu/shiqingliu.github.io/main/images/Outstanding_Presentation_Award_ShiqingLiu.jpg
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
+          date_start: '2023-09-10'
+          description: Federated Bayesian Optimization for Privacy-preserving Neural Architecture Search
+          icon: ''
+          organization: ABCP 2023 Annual Conference, AI and Cyber Security Track
+          # organization_url: https://www.edx.org
+          title: Outstanding Presentation Award
+          url: ''
+        - certificate_url: https://blogs.uni-bielefeld.de/blog/techfak/entry/isy_kongress_k%C3%BCrt_bestes_studi1
           date_end: '2020-12-21'
           date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          description: 392274 ISY Project:/ Privacy-Preserving Federated Learning (as supervisor)
+          icon: ''
+          organization: 2022 Annual Congress of Intelligent Systems (ISY), Bielefeld University
+          # organization_url: https://www.datacamp.com
+          title: Best Project Award
           url: ''
     design:
       columns: '2'
