@@ -98,14 +98,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://github.com/shiqingliu/shiqingliu.github.io/blob/main/images/Best_Student_Paper_Award_ShiqingLiu.jpg
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2023-09-22'
+          description: Federated Graph Neural Networks with Bipartite Embedding for Multi-Objective Facility Location
+          icon: ''
+          organization: the 5th International Conference on Data-driven Optimization of Complex Systems (DOCS)
+          # organization_url: https://www.coursera.org
+          title: Best Student Paper Award
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
