@@ -117,9 +117,9 @@ sections:
           title: Outstanding Presentation Award
           url: ''
         - certificate_url: https://blogs.uni-bielefeld.de/blog/techfak/entry/isy_kongress_k%C3%BCrt_bestes_studi1
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: 392274 ISY Project:/ Privacy-Preserving Federated Learning (as supervisor)
+          date_end: ''
+          date_start: '2022-12-02'
+          description: Privacy-Preserving Federated Learning (as supervisor)
           icon: ''
           organization: 2022 Annual Congress of Intelligent Systems (ISY), Bielefeld University
           # organization_url: https://www.datacamp.com
@@ -235,7 +235,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Contact me by leaving a message:
+        Contact me:
       # Contact (add or remove contact options as necessary)
       email: shiqing.liu@uni-bielefeld.de
       address:
