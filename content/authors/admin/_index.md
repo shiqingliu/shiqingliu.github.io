@@ -122,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Shiqing Liu is currently a Ph.D. student, supervised by Prof. Dr.-Ing. Yaochu Jin and Prof. Dr.-Ing. Ulrich Rückert, in the faculty of technology at Bielefeld University, Germany. She received the B.Sc. degree in automation and the M.Sc. degree in control science and engineering from Beijing Institute of Technology. Her research interests include neural combinatorial optimization, graph neural networks and federated learning. She is currently a graduate student member of IEEE.
+I am currently a Ph.D. student, supervised by Prof. Dr.-Ing. Yaochu Jin and Prof. Dr.-Ing. Ulrich Rückert, in the faculty of technology at Bielefeld University, Germany. I received the B.Sc. degree in automation and the M.Sc. degree in control science and engineering from Beijing Institute of Technology. My research interests include neural combinatorial optimization, graph neural networks and federated learning. I'm also a graduate student member of IEEE.
 {style="text-align: justify;"}
